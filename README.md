@@ -7,7 +7,7 @@ Projeto simples utilizando Gitflow.
 - Botão "Sobre Mim"
 
 ## Versionamento
-v1.0.1
+v1.1.0
 
 ## Fluxo utilizado
 - main
